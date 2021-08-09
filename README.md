@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yadavkrishna9
-- 📫 I'm Software Engineer at Simplilearn.
+- 📫 I'm Software Engineer at Simplilearn
 - 👀 I’m interested in functional programming
 - 🌱 I’m currently learning Full Stack Web Development (MERN)
 - 💞️ I’m looking to collaborate on NA
